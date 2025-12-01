@@ -1,3 +1,4 @@
-	git clone https://github.com/anten-ka/whitevpn.git
-	cd whitevpn
+git clone https://github.com/anten-ka/whitevpn.git
+cd whitevpn
 chmod +x install.sh manage.sh install_bot.sh
+sudo ./install.sh
